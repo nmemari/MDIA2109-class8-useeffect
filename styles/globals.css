@@ -1,0 +1,12 @@
+:root {
+  --federal-blue: #03045e;
+  --honolulu-blue: #0077b6;
+  --pacific-cyan: #00b4d8;
+  --non-photo-blue: #90e0ef;
+  --light-cyan: #caf0f8;
+}
+
+body {
+  margin: 0;
+  background-color: var(--federal-blue);
+}
